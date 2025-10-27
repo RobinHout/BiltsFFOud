@@ -136,8 +136,9 @@ a.headerButton {
 }
 .homeTekst {
     padding: 5%;
-    padding-right: 10%;
-    padding-left: 10%;
+    padding-right: 25%;
+    padding-left: 25%;
     text-align: center;
+    /* justify-content: center; */
     width: 50%;
 }
